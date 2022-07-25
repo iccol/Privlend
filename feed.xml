@@ -4,14 +4,11 @@
   <title>Syndicate by Mortgage S.I.</title>
   <link>https://multisig-879.pages.dev/</link>
   <description>Quick access to Syndicate by Mortgage S.I. listings. Upon notification visit P2P lending, sponsored by Stellar DEX (SDEXEX). To participate, you will act as the lead agent. Simply inform your group, subscribe yourself and have them subscribe to the RSS. Notify them of your parameters. When you receive notification the p2p loan is available in the syndicate. You and your group will automatically be informed via, RSS notifications of new p2p loans available.</description>
-  <image>
-      <url>https://multisig-879.pages.dev/rss.png</url>
-      <link>https://multisig-879.pages.dev/</link>
-  </image>
+
   <item>
       <title>Syndicate by Mortgage S.I.</title>
-      <link>p2plending.com</link>
-      <description>New P2P loan. 5%. Term: 1 week. Collateralized 100%. Collateral XLM.</description>
+      <link>https://p2pstellar.com/</link>
+      <description>New P2P loan. 5%. Term: 1 week. Collateralized 100%. Collateral XLM. Loan No.</description>
   </item>
 </channel>
 </rss> 
