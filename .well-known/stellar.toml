@@ -69,9 +69,9 @@ code="MORTG"
 issuer="GCFLUK4UK77337BRT6UGWP5UHYB73PSQ4HRACL6HJOQWH4GAKL4UX3RB"
 display_decimals=4
 name="Mortgage S.I."
-desc="Fungible spot market utility token. § 1.482-4 (b) (4)(5) Â§1.482-4(f)(3)
+desc="Fungible utility token.
 
-§ 6132 (h)(1) Section 798.3 Notice 2014-21"
+
 conditions="Active burn policy. Issuer may mint additional tokens"
 image="https://github.com/iccol/Privlend/blob/main/MORTG%20Infographic%203"
 fixed_number="false"
