@@ -4,11 +4,11 @@ NETWORK_PASSPHRASE="Public Global Stellar Network ; September 2015"
 
 FEDERATION_SERVER="https://api.stellar.org/federation"
 
-TRANSFER_SERVER="https://api.stellar.org"
+TRANSFER_SERVER="https://api.stellar.org/auth"
 
 SIGNING_KEY="GCFLUK4UK77337BRT6UGWP5UHYB73PSQ4HRACL6HJOQWH4GAKL4UX3RB"
 
-HORIZON_URL="https://horizon.stellar.org/auth"
+HORIZON_URL="https://horizon.stellar.org"
 
 ACCOUNTS=[
 
