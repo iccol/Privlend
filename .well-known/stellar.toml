@@ -80,3 +80,30 @@ image="https://github.com/iccol/Privlend/blob/main/MORTG%20Infographic%203"
 
 
 fixed_number="false"
+
+code="multisig"
+issuer="GCXQQCX25YCZKCSS3XEQSA4HQUORSEQPV66C3HAYN7MDOJU2PUMHK66J"
+display_decimals=4
+name="Multisig"
+desc="Fungible utility token"
+conditions="Active burn policy. Issuer may mint additional tokens"
+image=""
+fixed_number="false"
+
+code="SCRO"
+issuer="GCXQQCX25YCZKCSS3XEQSA4HQUORSEQPV66C3HAYN7MDOJU2PUMHK66J"
+display_decimals=4
+name="SCRO"
+desc="Fungible utility token"
+conditions="Active burn policy. Issuer may mint additional tokens"
+image=""
+fixed_number="false"
+
+code="MORTGISDA"
+issuer="GCGOSJVR56YOLOROLA7QYMZL7B64ZR7DJY3EBXGELL4ODACZE4C4VFHS"
+display_decimals=4
+name="MortgageISDA"
+desc="Fungible utility token"
+conditions="Active burn policy. Issuer may mint additional tokens"
+image=""
+fixed_number="false"
