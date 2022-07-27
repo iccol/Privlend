@@ -64,7 +64,7 @@ desc="Fungible utility token."
 
 
 conditions="Active burn policy. Issuer may mint additional tokens"
-image="https://github.com/iccol/Privlend/blob/main/MORTG%20Infographic%203"
+image="https://github.com/iccol/Privlend/blob/main/MORTG03.jpg"
 fixed_number="false"
 
 code="MORTG"
@@ -75,8 +75,9 @@ desc="Fungible utility token."
 
 
 conditions="Active burn policy. Issuer may mint additional tokens"
-image=""
+image="https://github.com/iccol/Privlend/blob/main/MORTG01.jpg
 fixed_number="false"
+
 code="MORTG"
 issuer="GDBQCRCX5CI7XLLPTP3CX22NBR2IIJCH3WNYSBWEZN3IR6QCUS4BK2VU"
 display_decimals=4
@@ -85,7 +86,7 @@ desc="Fungible utility token."
 
 
 conditions="Active burn policy. Issuer may mint additional tokens"
-image=""
+image="https://github.com/iccol/Privlend/blob/main/MORTG02.jpg"
 fixed_number="false"
 
 
