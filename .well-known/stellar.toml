@@ -13,7 +13,19 @@ ACCOUNTS=["GDVWPEOTJOPRT433PX6LULEPML5AN6QJO4GCFVFK43IPRQ23NPQAUSDF"]
 ORG_NAME="Mortgage S.I."
 ORG_URL="multisig-879.pages.dev"
 ORG_LOGO=""
-ORG_DESCRIPTION="Private"
+ORG_DESCRIPTION="Mortgage S.I. coin is fungible, all purpose utility token of spot markets that can be utilized for
+
+durable goods, non durable goods, consumer durable and Consumer packaged goods (CPG)
+
+items used daily/
+
+It functions as a security interest, (S.I.), for efficient short and long term utilization by using
+
+new technology efficiently in collaborative commerce (C-commerce). Mortgage S.I. Coin sits on top of the stellar network a blockchain-based remittance company.
+
+Remittance companies are used to offer such advantages as fast transfer time and relatively low
+
+transaction costs."
 ORG_PHYSICAL_ADDRESS="2029 Century Park E., Los Angeles, CA 90067, United States"
 ORG_PHYSICAL_ADDRESS_ATTESTATION=""
 ORG_PHONE_NUMBER=""
@@ -21,7 +33,7 @@ ORG_PHONE_NUMBER_ATTESTATION=""
 ORG_KEYBASE="mortg*keybase.io"
 ORG_TWITTER=""
 ORG_GITHUB="https://github.com/iccol/Privlend"
-ORG_OFFICIAL_EMAIL=""
+ORG_OFFICIAL_EMAIL="bonded_logon.0d@icloud.com"
 
 [[PRINCIPALS]]
 
