@@ -49,6 +49,7 @@ verification_photo_hash=""
 code="MORTG"
 issuer="GCFLUK4UK77337BRT6UGWP5UHYB73PSQ4HRACL6HJOQWH4GAKL4UX3RB"
 display_decimals=4
+attestation_of_reserve="https://stellar.expert/explorer/public/market?asset=MORTG-GCFLUK4UK77337BRT6UGWP5UHYB73PSQ4HRACL6HJOQWH4GAKL4UX3RB"
 name="Mortgage S.I."
 desc="Fungible utility token."
 conditions="Verified mint. Active burn policy. Issuer may mint additional tokens"
