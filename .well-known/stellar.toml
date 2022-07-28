@@ -51,6 +51,6 @@ issuer="GCFLUK4UK77337BRT6UGWP5UHYB73PSQ4HRACL6HJOQWH4GAKL4UX3RB"
 display_decimals=4
 name="Mortgage S.I."
 desc="Fungible utility token."
-conditions="Active burn policy. Issuer may mint additional tokens"
+conditions="Verified mint. Active burn policy. Issuer may mint additional tokens"
 image="multisig-879.pages.dev/MORTG03.jpg"
 fixed_number="1000000"
