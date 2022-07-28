@@ -1,4 +1,4 @@
-VERSION="2.0.0"
+VERSIONING="2.0.0"
 
 NETWORK_PASSPHRASE="Public Global Stellar Network ; September 2015"
 
@@ -17,7 +17,7 @@ ORG_NAME="Mortgage S.I."
 
 
 
-ORG_URL="http://multisig-879.pages.dev"
+ORG_URL="multisig-879.pages.dev"
 
 ORG_LOGO="https://github.com/iccol/Privlend/blob/main/MORTG%20Infographic%203"
 
