@@ -52,6 +52,6 @@ display_decimals=4
 attestation_of_reserve="https://stellar.expert/explorer/public/market?asset=MORTG-GCFLUK4UK77337BRT6UGWP5UHYB73PSQ4HRACL6HJOQWH4GAKL4UX3RB"
 name="Mortgage S.I."
 desc="Fungible utility token."
-conditions="Verified mint. Active burn policy. Issuer may mint additional tokens"
+conditions="Verified mint. Active burn policy. Issuer may mint additional tokens. Exchangeable with "MORTG" Issuer/ GDBQC..VU and MORTG" GC3YR..FMA"
 image="multisig-879.pages.dev/MORTG03.jpg"
 fixed_number="1000000"
