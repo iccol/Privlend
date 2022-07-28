@@ -62,5 +62,5 @@ display_decimals=4
 name="Mortgage S.I."
 desc="Fungible utility token."
 conditions="Active burn policy. Issuer may mint additional tokens"
-image="https://github.com/iccol/Privlend/blob/main/.well-known/MORTG03.jpg"
+image="https://github.com/iccol/Privlend/.well-known/MORTG03.jpg"
 fixed_number="false"
