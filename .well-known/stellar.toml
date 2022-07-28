@@ -40,5 +40,5 @@ display_decimals=4
 name="Mortgage S.I."
 desc="Fungible utility token."
 conditions="Active burn policy. Issuer may mint additional tokens"
-image=""
+image="multisig-879.pages.dev/mortg02.jpg"
 fixed_number="1000000"
