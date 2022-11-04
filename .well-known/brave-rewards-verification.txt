@@ -1,4 +1,4 @@
 This is a Brave Rewards publisher verification file.
 
 Domain: syndicate-9i5.pages.dev
-Token: 590e15ddc13e7ddb843277c017cec0d1d5fb2b1a117aeef653ba8cfdc86cab57
+Token: 53ab3a94f9b6f387690c6c16fbc54a106e94f484983eda2c7bf4866b5af0874e
