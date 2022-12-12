@@ -42,4 +42,4 @@ name="Mortgage S.I."
 desc="Fungible utility token."
 conditions="Verified mint. Active burn policy. Issuer may mint additional tokens."
 image="multisig-879.pages.dev/MORTG03.jpg"
-fixed_number="1000000"
+fixed_number=1000000
